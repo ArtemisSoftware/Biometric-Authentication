@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BiometricAuthentication</string>
+    <string name="authenthicate">Authenticate</string>
+    <string name="secret_message">The secret is revealed</string>
 </resources>
